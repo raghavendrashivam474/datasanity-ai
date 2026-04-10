@@ -150,14 +150,18 @@ Open a Pull Request
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 👨‍💻 Author
-Raghav
+Raghavendra Singh
 
-GitHub: @YOUR_USERNAME
-LinkedIn: Your LinkedIn
+GitHub: @raghavendrashivam474
+LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/raghavendra-singh-2335292ab/)
 🙏 Acknowledgments
 Medicine dictionary compiled from FDA and WHO databases
 Inspired by real-world pharmacy data challenges
 Built with ❤️ for healthcare professionals
 📞 Support
-For support, email your-email@example.com or open an issue on GitHub.
+For support, email raghavendrashivam474@gmail.com or open an issue on GitHub.
 
+⭐ Show Your Support
+Give a ⭐️ if this project helped you!
+
+Made with ❤️ by Raghu
