@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+rapidfuzz
+python-multipart
+jinja2
+openpyxl
+python-dateutil
