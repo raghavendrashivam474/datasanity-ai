@@ -9,6 +9,10 @@ Transform messy medicine inventory data into clean, validated datasets in second
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-teal)
 ![License](https://img.shields.io/badge/license-MIT-orange)
 
+## 🌐 **[🚀 TRY IT LIVE](https://datasanity-ai.onrender.com)** ← Click here!
+
+> ⚠️ **Note:** Free tier may take 30 seconds to wake up after inactivity.
+
 ---
 
 ## ✨ Features
